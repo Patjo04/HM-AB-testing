@@ -5,11 +5,9 @@ By Patrik Johansson
 
 Link to thesis: Will be updated when published.
 
-.ipynb is the main file where all the experiments and results are shown
+results.ipynb is the main file where all the experiments and results are shown
+plotting.py includes the code that creates the plots for the results in the A/B testing phase.
 stats.py includes the approximation formula used for the approximation of data points needed in the experiments
-.py includes the code that handle the plots created.
-the folder includes the files used that are relevant to the thesis.
-
-Enjoy this repository.
+Results (images) is the folder that includes the files used that are relevant to the thesis.
 
 Updated 2026-06-06
